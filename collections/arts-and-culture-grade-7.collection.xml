@@ -1,3 +1,50 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11027</md:content-id>  <md:title>Arts and Culture Grade 7</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>bab1a1fe-ba21-46e2-89c0-0c0b29947afa</md:uuid>
-<md:slug>arts-and-culture-grade-7</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m23136"/>                            <col:module document="m23140"/>                            <col:module document="m23141"/>                            <col:module document="m23142"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23145"/>                            <col:module document="m23146"/>                            <col:module document="m23147"/>                            <col:module document="m29617"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m23149"/>                            <col:module document="m23150"/>                            <col:module document="m23152"/>                            <col:module document="m23153"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m23154"/>                            <col:module document="m23158"/>                            <col:module document="m23160"/>                            <col:module document="m23163"/>                            <col:module document="m23157"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11027</md:content-id>
+    <md:title>Arts and Culture Grade 7</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bab1a1fe-ba21-46e2-89c0-0c0b29947afa</md:uuid>
+    <md:slug>arts-and-culture-grade-7</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m23136"/>
+        <col:module document="m23140"/>
+        <col:module document="m23141"/>
+        <col:module document="m23142"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23145"/>
+        <col:module document="m23146"/>
+        <col:module document="m23147"/>
+        <col:module document="m29617"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m23149"/>
+        <col:module document="m23150"/>
+        <col:module document="m23152"/>
+        <col:module document="m23153"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m23154"/>
+        <col:module document="m23158"/>
+        <col:module document="m23160"/>
+        <col:module document="m23163"/>
+        <col:module document="m23157"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
